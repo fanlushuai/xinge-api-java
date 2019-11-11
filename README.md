@@ -28,3 +28,8 @@ fork 自 [https://github.com/xingePush/xinge-api-java](https://github.com/xingeP
 ## 使用：
 
 和fork源一致，参见测试代码
+
+## 建议姿势：
+
+fork本项目到自己github账户，参见https://github.com/fanlushuai/maven-repo  readme的maven github repo配置。建立并修改成自己的github的maven repo。
+自己本地build，自动deploy到自己的maven-repo。相当方便灵活。
